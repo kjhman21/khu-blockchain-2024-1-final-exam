@@ -1,0 +1,31 @@
+{
+    "initial_name":"KJH",
+    "student_id":"2020102243",
+    "full_name":"Junghyun Kim",
+    "deployer_addr":"0x6E8D6A99a27F61E1D6Fa6653346df088d40159cE",
+    "problem1":{
+      "deploy_tx_hash":"0x0a426544ab7a4298be09307ce4168f3ee88f5f33166937b4e89b780abf92b9bd"
+    },
+    "problem2": {
+      "txhash2_1":"0x1b6d43290b60c5a481daf3111680ad0f8a5aada34d1a5f12cdef33f366f95ca3",
+      "txhash2_2":"0x2c64fce2fe269095cc1a5d5de880de7d1504aecdf46778995f8c1d316ec0a9a3",
+      "minter":"0x9b5998eEf2911169510b0225d2C93C0FaF4415cE"
+    },
+    "problem3": {
+      "txhash":"0xbb4b7dd2e907ede4bb4ad6d13f9e31b6ff3dfe56f22b90d965ade65901e47a96"
+    },
+    "problem4": {
+      "txhash":"0x056f7b6693bff638b659751e288f3751706590f5b75a25a669d20089e3dc4347"
+    },
+    "problem5": {
+      "txhash5_1":"0x3c24e342f2b7b327c2677c8612e189246b2690d2823ff9fd41b0793b250d31cc",
+      "txhash5_2":"0x87eb66df7be0e0695b89553cef1d684bce5b9373bb5f2b9f3a1240848e59dad5",
+      "txhash5_3":"0xa611c94943b0737069d78fb62f67d16b0ce9379146834e7332f69ca1c4dbab48"
+    },
+    "problem6": {
+      "spender":"0xC21954b13cF507b55E30a274969690844d8f1dc1",
+      "txhash6_1":"0x8533380c8ff631cb35d7ab24564c617eb096815c10ae3067cbdc9f391a8241be",
+      "txhash6_2":"0xbae0a1d519d7b1fa4ae4b10a7d174ac23e311fef713763c54e7791d9fe4e830c",
+      "txhash6_3":"0x0af329556ba2fabf6d3bbefedb4ee52507f27c9163eb8ef67f0a07dc10d93891"
+    }
+  }

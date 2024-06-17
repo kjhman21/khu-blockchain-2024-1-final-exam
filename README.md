@@ -12,10 +12,8 @@ $ npm install
 ## How to Run
 
 1. Update `data.json` first
-1. Run test script
-
+2. Run test script
 ```
 $ npm test
 ```
-
-1. Checkout the result
+3. Checkout the result

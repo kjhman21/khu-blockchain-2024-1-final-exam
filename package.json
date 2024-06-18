@@ -4,13 +4,14 @@
   "main": "index.js",
   "scripts": {
     "test_report": "mocha --reporter mocha-ctrf-json-reporter -t 20000 index.js",
-    "test": "mocha -t 20000 index.js"
+    "test": "node jsontrim.js && mocha -t 20000 index.js"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "ethers": "5.7"
+    "ethers": "5.7",
+    "jsonrepair": "^3.8.0"
   },
   "devDependencies": {
     "mocha": "^10.4.0",
